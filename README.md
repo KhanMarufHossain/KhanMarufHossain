@@ -3,7 +3,7 @@ I am Khan Maruf Hossain. I am a professional **react native developer**. After a
 Here are my best pieces of learnings & achievements:
 1. **CODE QUALITY** : With the best react native development & optimization practices, complex logic buildings, such as Memoization, advanced relational caching, I’ve reduced the loading time of a massive fetched dataset by 65% and made the user experience a lot better.
 2. **PROJECTS THAT TALK FOR ME** : Assured enterprise-grade products for a large Real Estate organization of Dubai, a Football Journal app, a Petcare, a GOLF Diary for USA,  and quite a few other local startups.
-3. **Language and Team play** : In WORLD LANGUAGE ENGLISH, I talk fluent, listen sharp, and connect with the problem by heart, ** making it seamless for clients** . And in office & remote settings, I worked with team of backend, design, and project manager people, maintaining proper office etiquette and culture.
+3. **Language and Team play** : In WORLD LANGUAGE ENGLISH, I talk fluent, listen sharp, and connect with the problem by heart, **making it seamless for clients** . And in office & remote settings, I worked with team of backend, design, and project manager people, maintaining proper office etiquette and culture.
 
 **I am a passionate coder**. **I do it cause I love it**. I have solid understanding in **C, Java **and** Javascript**.
 **My prime edge over others is I learn quick and execute fast.** I know how to search for the things I need to know. I think that is the quality that makes me a genuine developer.  
