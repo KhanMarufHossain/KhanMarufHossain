@@ -8,6 +8,9 @@ Here are my best pieces of learnings & achievements:
 **I am a passionate coder**. **I do it cause I love it**. I have solid understanding in **C, Java **and** Javascript**.
 **My prime edge over others is I learn quick and execute fast.** I know how to search for the things I need to know. I think that is the quality that makes me a genuine developer.  
 
+Email: hkhanmaruf@gmail.com
+Linkedin : https://linkedin.com/in/khan-maruf-hossain-3b42b4347
+
 <!--
 **KhanMarufHossain/KhanMarufHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
