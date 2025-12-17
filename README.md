@@ -1,5 +1,5 @@
 ## Hello there 👋
-I am Khan Maruf Hossain. I am a professional **react native developer**. After almost a year of remarkable working experience and success as a junior developer in Sparktech Agency, I'm now working remotely helping visionaries worldwide.
+I am Khan Maruf Hossain. I am a professional **react native developer**. After almost a year of remarkable working experience and success as a junior developer in **Sparktech Agency**, I'm now working remotely helping visionaries worldwide.
 Here are my best pieces of learnings & achievements:
 1. **CODE QUALITY** : With the best react native development & optimization practices, complex logic buildings, such as Memoization, advanced relational caching, I’ve reduced the loading time of a massive fetched dataset by 65% and made the user experience a lot better.
 2. **PROJECTS THAT TALK FOR ME** : Assured enterprise-grade products for a large Real Estate organization of Dubai, a Football Journal app, a Petcare, a GOLF Diary for USA,  and quite a few other local startups.
